@@ -56,7 +56,7 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 
 <details>
 <summary>C++</summary>
-<img src="demo/c++.png" alt="C++ Example"/>
+<img src="demo/cpp.png" alt="Java Example"/>
 </details>
 
 <details>
