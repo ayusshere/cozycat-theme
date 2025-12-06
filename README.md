@@ -4,9 +4,9 @@
   <img src="./icon/icon.png" width="100" style="border-radius:12px; margin-bottom:0px;"/>
 
   <!-- Title -->
-  <p style="font-size:20px; color:#b0c4dd; margin:12px 0 20px 0;">
-    <b>CozyCat</b> for <a href="https://code.visualstudio.com">VSCode</a>
-  </p>
+  <h1 style="font-size:20px; color:#b0c4dd; margin:12px 0 20px 0;">
+    CozyCat for <a href="https://code.visualstudio.com">VSCode</a>
+  </h1>
 
   <!-- Badges -->
   <div style="display:flex; gap:6px; justify-content:center; flex-wrap:wrap; margin-bottom:16px;">
@@ -19,74 +19,78 @@
 
 ---
 
-<p align="center"> CozyCat is a <b>warm, calm, and elegant dark theme</b> for Visual Studio Code, designed to make coding comfortable and enjoyable for long sessions.
-With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping your code readable and beautiful.
+<p align="center"> CozyCat is a <b>warm, calm, and elegant dark theme 🌙</b> for Visual Studio Code, designed to make coding comfortable and enjoyable for long sessions.  
+With soft colors and subtle contrasts, CozyCat reduces eye strain 👀 while keeping your code readable and beautiful 🎨.
 </p>
 
 ---
 
-## Features
+## Features ✨
 
-- Dark, soothing color palette  
-- Carefully selected syntax highlighting for better readability  
-- Minimalistic UI elements for a distraction-free experience  
-- Eye-friendly design for long working hours  
+- 🌑 Dark, soothing color palette  
+- 🎯 Carefully selected syntax highlighting for better readability  
+- 🧘 Minimalistic UI elements for a distraction-free experience  
+- 🖥️ Eye-friendly design for long working hours  
 
 ---
 
-## Demo
-![Editor Screenshot](demo/complete.png)  
+## Preview 👀
+<p align="center">
 
-### Language-wise Examples
+![Editor Screenshot](demo/motion.gif)  
+
+</p>
+
+### Language-wise Examples 💻
 
 <details>
-<summary>Python</summary>
+<summary>Python 🐍</summary>
 <img src="demo/python.png" alt="Python Example"/>
 </details>
 
 <details>
-<summary>JavaScript</summary>
+<summary>JavaScript ⚡</summary>
 <img src="demo/js.png" alt="JavaScript Example"/>
 </details>
 
 <details>
-<summary>Java</summary>
+<summary>Java ☕</summary>
 <img src="demo/java.png" alt="Java Example"/>
 </details>
 
 <details>
-<summary>C++</summary>
-<img src="demo/cpp.png" alt="Java Example"/>
+<summary>C++ 💻</summary>
+<img src="demo/cpp.png" alt="C++ Example"/>
 </details>
 
 <details>
-<summary>HTML</summary>
+<summary>HTML 🌐</summary>
 <img src="demo/html.png" alt="HTML Example"/>
 </details>
 
 <details>
-<summary>CSS</summary>
+<summary>CSS 🎨</summary>
 <img src="demo/css.png" alt="CSS Example"/>
 </details>
 
 <details>
-<summary>Go</summary>
+<summary>Go 🐹</summary>
 <img src="demo/go.png" alt="Go Example"/>
 </details>
 
 <details>
-<summary>Rust</summary>
+<summary>Rust 🦀</summary>
 <img src="demo/rust.png" alt="Rust Example"/>
 </details>
 
 <details>
-<summary>JSON</summary>
+<summary>JSON 📄</summary>
 <img src="demo/json.png" alt="JSON Example"/>
 </details>
 
 ---
 
-## Installation
+## Installation 🚀
 
 ### From Marketplace  
 (Once published) search for **CozyCat** in the Extensions panel.
@@ -98,21 +102,21 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 
 ---
 
-## Usage
+## Usage 🎛️
 
 To activate the theme:  
 **Command Palette → Preferences: Color Theme → CozyCat**
 
-Enjoy a clean, calm, cozy coding environment.
+Enjoy a clean, calm, cozy coding environment 😺.
 
 ---
 
-## Customization
+## Customization 🎨
 
 You can style different parts of your code—like comments, keywords, or function names—using **italic**, **bold**, **both**, or leave them normal.  
 If you don’t want any style, just use `""`.
 
-### How it works
+### How it works ⚙️
 
 - **scope** → Defines which part of your code the style applies to  
   - Examples: `"comment"`, `"keyword"`, `"entity.name.function"`  
@@ -144,6 +148,21 @@ You can combine multiple scopes in a single block.
     ]
 }
 ```
+
+## My Configuration
+
+Font Source - [Maple Mono](https://font.subf.dev/en/)
+<br>Icon Theme - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+``` jsonc
+    "editor.fontFamily": "Maple Mono NF,JetBrainsMono Nerd Font",
+    "editor.fontSize": 20.5,
+    "editor.fontLigatures": "'calt','ss11','ss06','ss10','ss03'",
+    "editor.lineNumbers": "relative",
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.fontSize": 17,
+
+```
+
 
 ## Contributing
 
