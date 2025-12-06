@@ -1,19 +1,50 @@
 <br>
 
-<p align="center">
-  <img src="./icon/icon.png" width="130"/>
-</p>
+<div align="center" style="background:#1B1A29; padding:20px 40px; border-radius:16px; display:inline-block; box-shadow:0 0px 0px rgba(0,0,0,0.4);">
 
-<p align="center" style="font-size: 22px;">
-  <b>CozyCat</b> for VSCode
-</p>
+  <!-- Icon -->
+  <img src="./icon/icon.png" width="100" style="border-radius:12px; margin-bottom:12px;"/>
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/github/stars/ayusshere/cozycat-theme?style=for-the-badge&colorA=3b88b8&colorB=60b2e1"/>
-  <img src="https://img.shields.io/github/issues/ayusshere/cozycat-theme?style=for-the-badge&colorA=dd99c9&colorB=f5c2e7"/>
-  <img src="https://img.shields.io/github/contributors/ayusshere/cozycat-theme?style=for-the-badge&colorA=78c170&colorB=aae484"/>
-</p>
+  <!-- Title -->
+  <p style="font-size:20px; color:#b0c4dd; margin:12px 0 20px 0;">
+    CozyCat for VSCode
+  </p>
+
+  <!-- Badges -->
+  <div style="display:flex; gap:6px; justify-content:center; flex-wrap:wrap; margin-bottom:16px;">
+    <img src="https://img.shields.io/github/stars/ayusshere/cozycat-theme?style=for-the-badge&colorA=3b88b8&colorB=60b2e1"/>
+    <img src="https://img.shields.io/github/issues/ayusshere/cozycat-theme?style=for-the-badge&colorA=dd99c9&colorB=f5c2e7"/>
+    <img src="https://img.shields.io/github/contributors/ayusshere/cozycat-theme?style=for-the-badge&colorA=78c170&colorB=aae484"/>
+  </div>
+
+  <!-- Palette -->
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:2px;">
+    <span style="display:inline-block; width:20px; height:20px; background:#f5e0dc;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#f2cdcd;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#f5c2e7;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#dd99f4;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#e27882;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#fd9db2;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#fbb470;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#f0e893;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#aae484;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#94e2d5;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#89dceb;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#74c7ec;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#60b2e1;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#b4befe;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#b0c4dd;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#9ca2bb;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#9399b0;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#767b8b;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#565866;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#54586c;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#3e404f;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#2b2c3b;"></span>
+    <span style="display:inline-block; width:20px; height:20px; background:#1B1A29;"></span>
+  </div>
+
+</div>
 
 ---
 
@@ -22,35 +53,6 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 </p>
 
 ---
-
-## Palette
-
-<div align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
-  <div style="background:#f5e0dc; width:20px; height:20px;"></div>
-  <div style="background:#f2cdcd; width:20px; height:20px;"></div>
-  <div style="background:#f5c2e7; width:20px; height:20px;"></div>
-  <div style="background:#dd99f4; width:20px; height:20px;"></div>
-  <div style="background:#e27882; width:20px; height:20px;"></div>
-  <div style="background:#fd9db2; width:20px; height:20px;"></div>
-  <div style="background:#fbb470; width:20px; height:20px;"></div>
-  <div style="background:#f0e893; width:20px; height:20px;"></div>
-  <div style="background:#aae484; width:20px; height:20px;"></div>
-  <div style="background:#94e2d5; width:20px; height:20px;"></div>
-  <div style="background:#89dceb; width:20px; height:20px;"></div>
-  <div style="background:#74c7ec; width:20px; height:20px;"></div>
-  <div style="background:#60b2e1; width:20px; height:20px;"></div>
-  <div style="background:#b4befe; width:20px; height:20px;"></div>
-  <div style="background:#b0c4dd; width:20px; height:20px;"></div>
-  <div style="background:#9ca2bb; width:20px; height:20px;"></div>
-  <div style="background:#9399b0; width:20px; height:20px;"></div>
-  <div style="background:#767b8b; width:20px; height:20px;"></div>
-  <div style="background:#565866; width:20px; height:20px;"></div>
-  <div style="background:#54586c; width:20px; height:20px;"></div>
-  <div style="background:#3e404f; width:20px; height:20px;"></div>
-  <div style="background:#2b2c3b; width:20px; height:20px;"></div>
-  <div style="background:#1B1A29; width:20px; height:20px;"></div>
-</div>
-
 
 ## Features
 
@@ -68,6 +70,7 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 ![Editor Screenshot](./screenshots/editor.png)  
 ![Sidebar Screenshot](./screenshots/sidebar.png)
 
+---
 
 ## Installation
 
@@ -79,6 +82,7 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 2. Select your `.vsix` file  
 3. Go to **Preferences → Color Theme → choose CozyCat**
 
+---
 
 ## Usage
 
@@ -87,6 +91,7 @@ To activate the theme:
 
 Enjoy a clean, calm, cozy coding environment.
 
+---
 
 ## Customization
 
@@ -111,15 +116,15 @@ You can combine multiple scopes in a single block.
 "editor.tokenColorCustomizations": {
     "textMateRules": [
         {
-            "scope": "comment",           // Comments like // or /* */
+            "scope": "comment",           
             "settings": { "fontStyle": "italic" }  
         },
         {
-            "scope": "keyword",           // Keywords like if, for, return
+            "scope": "keyword",           
             "settings": { "fontStyle": "bold" }  
         },
         {
-            "scope": "entity.name.function",  // Function names like myFunction()
+            "scope": "entity.name.function",  
             "settings": { "fontStyle": "italic" }  
         }
     ]
