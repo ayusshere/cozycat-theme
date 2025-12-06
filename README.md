@@ -34,12 +34,55 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain while keeping 
 
 ---
 
-## Screenshots
+## Demo
+![Editor Screenshot](demo/completeDemo.png)  
 
-*(Add screenshots in your project folder)*
+### Language-wise Examples
 
-![Editor Screenshot](./screenshots/editor.png)  
-![Sidebar Screenshot](./screenshots/sidebar.png)
+<details>
+<summary>Python</summary>
+<img src="demo/python.png" alt="Python Example"/>
+</details>
+
+<details>
+<summary>JavaScript</summary>
+<img src="demo/js.png" alt="JavaScript Example"/>
+</details>
+
+<details>
+<summary>Java</summary>
+<img src="demo/java.png" alt="Java Example"/>
+</details>
+
+<details>
+<summary>C++</summary>
+<img src="demo/c++.png" alt="C++ Example"/>
+</details>
+
+<details>
+<summary>HTML</summary>
+<img src="demo/html.png" alt="HTML Example"/>
+</details>
+
+<details>
+<summary>CSS</summary>
+<img src="demo/css.png" alt="CSS Example"/>
+</details>
+
+<details>
+<summary>Go</summary>
+<img src="demo/go.png" alt="Go Example"/>
+</details>
+
+<details>
+<summary>Rust</summary>
+<img src="demo/rust.png" alt="Rust Example"/>
+</details>
+
+<details>
+<summary>JSON</summary>
+<img src="demo/json.png" alt="JSON Example"/>
+</details>
 
 ---
 
