@@ -37,7 +37,7 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain 👀 while kee
 ## Preview 👀
 <p align="center">
 
-![Editor Screenshot](demo/motion.gif)  
+![Editor Screenshot](/demo/Motion.gif)  
 
 </p>
 
