@@ -10,8 +10,8 @@
 
   <!-- Badges -->
   <div style="display:flex; gap:6px; justify-content:center; flex-wrap:wrap; margin-bottom:16px;">
-    <img src="https://img.shields.io/github/stars/ayusshere/cozycat-theme?style=for-the-badge&colorA=3b88b8&colorB=60b2e1"/>
-    <img src="https://img.shields.io/github/issues/ayusshere/cozycat-theme?style=for-the-badge&colorA=dd99c9&colorB=f5c2e7"/>
+    <img src="https://img.shields.io/vscode-marketplace/v/cozy-cat.cozycat?style=for-the-badge&colorA=dd99c9&colorB=f5c2e7" />
+    <img src="https://img.shields.io/vscode-marketplace/d/cozy-cat.cozycat?style=for-the-badge&colorA=3b88b8&colorB=60B2E1" />
     <img src="https://img.shields.io/github/contributors/ayusshere/cozycat-theme?style=for-the-badge&colorA=78c170&colorB=aae484"/>
   </div>
 
@@ -23,14 +23,45 @@
 With soft colors and subtle contrasts, CozyCat reduces eye strain 👀 while keeping your code readable and beautiful 🎨.
 </p>
 
----
 
+---
 ## Features ✨
 
 - 🌑 Dark, soothing color palette  
 - 🎯 Carefully selected syntax highlighting for better readability  
 - 🧘 Minimalistic UI elements for a distraction-free experience  
 - 🖥️ Eye-friendly design for long working hours  
+
+---
+
+<h2>Palette 🎨</h2>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:4px;">
+  <span style="background:#f5e0dc;color:#000;padding:4px 8px;border-radius:6px;">#f5e0dc</span>
+  <span style="background:#f2cdcd;color:#000;padding:4px 8px;border-radius:6px;">#f2cdcd</span>
+  <span style="background:#f5c2e7;color:#000;padding:4px 8px;border-radius:6px;">#f5c2e7</span>
+  <span style="background:#dd99f4;color:#000;padding:4px 8px;border-radius:6px;">#dd99f4</span>
+  <span style="background:#e27882;color:#000;padding:4px 8px;border-radius:6px;">#e27882</span>
+  <span style="background:#fd9db2;color:#000;padding:4px 8px;border-radius:6px;">#fd9db2</span>
+  <span style="background:#fbb470;color:#000;padding:4px 8px;border-radius:6px;">#fbb470</span>
+  <span style="background:#f0e893;color:#000;padding:4px 8px;border-radius:6px;">#f0e893</span>
+  <span style="background:#aae484;color:#000;padding:4px 8px;border-radius:6px;">#aae484</span>
+  <span style="background:#94e2d5;color:#000;padding:4px 8px;border-radius:6px;">#94e2d5</span>
+  <span style="background:#89dceb;color:#000;padding:4px 8px;border-radius:6px;">#89dceb</span>
+  <span style="background:#74c7ec;color:#000;padding:4px 8px;border-radius:6px;">#74c7ec</span>
+  <span style="background:#60b2e1;color:#000;padding:4px 8px;border-radius:6px;">#60b2e1</span>
+  <span style="background:#b4befe;color:#000;padding:4px 8px;border-radius:6px;">#b4befe</span>
+  <span style="background:#b0c4dd;color:#000;padding:4px 8px;border-radius:6px;">#b0c4dd</span>
+  <span style="background:#9ca2bb;color:#000;padding:4px 8px;border-radius:6px;">#9ca2bb</span>
+  <span style="background:#9399b0;color:#000;padding:4px 8px;border-radius:6px;">#9399b0</span>
+  <span style="background:#767b8b;color:#fff;padding:4px 8px;border-radius:6px;">#767b8b</span>
+  <span style="background:#565866;color:#fff;padding:4px 8px;border-radius:6px;">#565866</span>
+  <span style="background:#54586c;color:#fff;padding:4px 8px;border-radius:6px;">#54586c</span>
+  <span style="background:#3e404f;color:#fff;padding:4px 8px;border-radius:6px;">#3e404f</span>
+  <span style="background:#2b2c3b;color:#fff;padding:4px 8px;border-radius:6px;">#2b2c3b</span>
+  <span style="background:#1B1A29;color:#fff;padding:4px 8px;border-radius:6px;">#1B1A29</span>
+</div>
+
+
 
 ---
 
@@ -93,7 +124,9 @@ With soft colors and subtle contrasts, CozyCat reduces eye strain 👀 while kee
 ## Installation 🚀
 
 ### From Marketplace  
-(Once published) search for **CozyCat** in the Extensions panel.
+Bring some coziness to your VS Code! 🌙
+Install [CozyCat Theme](https://marketplace.visualstudio.com/items?itemName=cozy-cat.cozycat) from the Marketplace
+or search “CozyCat Theme” in your Extensions panel.
 
 ### From VSIX  
 1. Open **Command Palette → Extensions: Install from VSIX...**  
@@ -128,7 +161,7 @@ If you don’t want any style, just use `""`.
 
 You can combine multiple scopes in a single block.
 
-### Example
+### Example 📝
 
 ```jsonc
 "editor.tokenColorCustomizations": {
@@ -149,7 +182,7 @@ You can combine multiple scopes in a single block.
 }
 ```
 
-## My Configuration
+## My Configuration 🧘‍♂️
 
 Font Source - [Maple Mono](https://font.subf.dev/en/)
 <br>Icon Theme - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -164,16 +197,17 @@ Font Source - [Maple Mono](https://font.subf.dev/en/)
 ```
 
 
-## Contributing
+## Contributing 👥
 
-Pull requests and suggestions are welcome.  
-Feel free to open issues for improvements or new feature ideas.
+Pull requests and ideas are always welcome.  
+If you spot something that could feel smoother, brighter, or cozier,  
+open an issue and let the theme grow with your touch. ✨
 
 
-## License
+## License ©️
 
 [MIT License](./LICENSE)
 
 
-## About the Author  
-Made with ❤️ by [Ayush Namdev](https://github.com/ayusshere)
+## About the Author 👤
+Designed by **[Ayush Namdev](https://github.com/ayusshere)**
