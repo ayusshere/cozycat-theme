@@ -3,7 +3,7 @@
   "displayName": "CozyCat Theme",
   "publisher": "cozy-cat",
   "description": "Cozycat: a calm and elegant theme for long coding sessions.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.106.1"
   },
