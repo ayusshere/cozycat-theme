@@ -23,45 +23,14 @@
 With soft colors and subtle contrasts, CozyCat reduces eye strain 👀 while keeping your code readable and beautiful 🎨.
 </p>
 
-
 ---
+
 ## Features ✨
 
 - 🌑 Dark, soothing color palette  
 - 🎯 Carefully selected syntax highlighting for better readability  
 - 🧘 Minimalistic UI elements for a distraction-free experience  
 - 🖥️ Eye-friendly design for long working hours  
-
----
-
-<h2>Palette 🎨</h2>
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:4px;">
-  <span style="background:#f5e0dc;color:#000;padding:4px 8px;border-radius:6px;">#f5e0dc</span>
-  <span style="background:#f2cdcd;color:#000;padding:4px 8px;border-radius:6px;">#f2cdcd</span>
-  <span style="background:#f5c2e7;color:#000;padding:4px 8px;border-radius:6px;">#f5c2e7</span>
-  <span style="background:#dd99f4;color:#000;padding:4px 8px;border-radius:6px;">#dd99f4</span>
-  <span style="background:#e27882;color:#000;padding:4px 8px;border-radius:6px;">#e27882</span>
-  <span style="background:#fd9db2;color:#000;padding:4px 8px;border-radius:6px;">#fd9db2</span>
-  <span style="background:#fbb470;color:#000;padding:4px 8px;border-radius:6px;">#fbb470</span>
-  <span style="background:#f0e893;color:#000;padding:4px 8px;border-radius:6px;">#f0e893</span>
-  <span style="background:#aae484;color:#000;padding:4px 8px;border-radius:6px;">#aae484</span>
-  <span style="background:#94e2d5;color:#000;padding:4px 8px;border-radius:6px;">#94e2d5</span>
-  <span style="background:#89dceb;color:#000;padding:4px 8px;border-radius:6px;">#89dceb</span>
-  <span style="background:#74c7ec;color:#000;padding:4px 8px;border-radius:6px;">#74c7ec</span>
-  <span style="background:#60b2e1;color:#000;padding:4px 8px;border-radius:6px;">#60b2e1</span>
-  <span style="background:#b4befe;color:#000;padding:4px 8px;border-radius:6px;">#b4befe</span>
-  <span style="background:#b0c4dd;color:#000;padding:4px 8px;border-radius:6px;">#b0c4dd</span>
-  <span style="background:#9ca2bb;color:#000;padding:4px 8px;border-radius:6px;">#9ca2bb</span>
-  <span style="background:#9399b0;color:#000;padding:4px 8px;border-radius:6px;">#9399b0</span>
-  <span style="background:#767b8b;color:#fff;padding:4px 8px;border-radius:6px;">#767b8b</span>
-  <span style="background:#565866;color:#fff;padding:4px 8px;border-radius:6px;">#565866</span>
-  <span style="background:#54586c;color:#fff;padding:4px 8px;border-radius:6px;">#54586c</span>
-  <span style="background:#3e404f;color:#fff;padding:4px 8px;border-radius:6px;">#3e404f</span>
-  <span style="background:#2b2c3b;color:#fff;padding:4px 8px;border-radius:6px;">#2b2c3b</span>
-  <span style="background:#1B1A29;color:#fff;padding:4px 8px;border-radius:6px;">#1B1A29</span>
-</div>
-
-
 
 ---
 
