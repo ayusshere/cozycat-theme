@@ -1,9 +1,9 @@
 {
   "name": "cozycat",
-  "displayName": "CozyCat",
-  "publisher": "ayusshere",
+  "displayName": "CozyCat Theme",
+  "publisher": "cozy-cat",
   "description": "Cozycat: a calm and elegant theme for long coding sessions.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.106.1"
   },
