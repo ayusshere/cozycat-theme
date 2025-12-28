@@ -3,6 +3,8 @@ node_modules/
 
 # VS Code settings folder (local to your machine)
 .vscode/
+Specimen/
+CatpuccinVSCodeSettings/
 
 # VSIX files (built packages)
 *.vsix
