@@ -906,6 +906,74 @@
 		"window.inactiveBorder": null
 	},
 	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"comment": {
+			"foreground": "#7a809a",
+		},
+		"keyword": {
+			"foreground": "#c694ed"
+		},
+		"operator": {
+			"foreground": "#89dceb"
+		},
+		"string": {
+			"foreground": "#96c885"
+		},
+		"number": {
+			"foreground": "#e8a76f"
+		},
+		"regexp": {
+			"foreground": "#e08fa6"
+		},
+		"function": {
+			"foreground": "#63B2E8",
+		},
+		"method": {
+			"foreground": "#63B2E8"
+		},
+		"variable": {
+			"foreground": "#b6c7df"
+		},
+		"parameter": {
+			"foreground": "#DF8FA6"
+		},
+		"property": {
+			"foreground": "#E8A76F"
+		},
+		"type": {
+			"foreground": "#ddd38a"
+		},
+		"class": {
+			"foreground": "#ddd38a"
+		},
+		"interface": {
+			"foreground": "#ddd38a"
+		},
+		"enum": {
+			"foreground": "#e3b1d8"
+		},
+		"enumMember": {
+			"foreground": "#e08fa6"
+		},
+		"namespace": {
+			"foreground": "#b4befe"
+		},
+		"typeParameter": {
+			"foreground": "#b4befe"
+		},
+		"macro": {
+			"foreground": "#d8747f"
+		},
+		"label": {
+			"foreground": "#89dceb"
+		},
+		"variable.readonly": {
+			"foreground": "#b4befe"
+		},
+		"function.declaration": {
+			"bold": true
+		}
+	},
 	"tokenColors": [
 		{
 			"scope": [
