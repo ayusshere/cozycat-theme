@@ -1,5 +1,7 @@
 {
-	"name": "CozyCat",
+	"$schema": "vscode://schemas/color-theme",
+	"name": "CozyCat Dark",
+	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#00000000",
 		"activityBar.activeBorder": "#00000000",

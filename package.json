@@ -2,8 +2,8 @@
   "name": "cozycat",
   "displayName": "CozyCat Theme",
   "publisher": "cozy-cat",
-  "description": "Cozycat: a calm and elegant theme for long coding sessions.",
-  "version": "1.1.4",
+  "description": "CozyCat: a calm and elegant theme for long coding sessions.",
+  "version": "1.1.5",
   "engines": {
     "vscode": "^1.106.1"
   },
@@ -12,18 +12,23 @@
     "url": "https://github.com/ayusshere/cozycat-theme.git"
   },
   "icon": "icon/icon.png",
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
+
   "contributes": {
     "themes": [
       {
-        "label": "CozyCat",
+        "label": "CozyCat Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/cozycat-color-theme.json"
+        "path": "./themes/cozycat-dark.json"
+      },
+      {
+        "label": "CozyCat Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/cozycat-light.json"
       }
     ]
   },
+
   "dependencies": {
     "vsce": "^2.15.0"
   }
